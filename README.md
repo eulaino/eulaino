@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Pedro Laino
+# 👩🏻‍💻 João Pedro de Souza Laino
 
 **`Desenvolvedor FullStack`**
 
