@@ -5,13 +5,6 @@
 Me chamo João Pedro Laino, tenho 22 anos e moro no Rio de Janeiro. Estou cursando Análise e Desenvolvimento de Sistemas na UNISUAM e sou apaixonado por tecnologia. Desde os 15 anos, venho estudando programação de forma autodidata, sempre buscando novos desafios e aprimorando minhas habilidades. Atualmente, estou focado no desenvolvimento de projetos em Python e outras tecnologias. Este portfólio reúne alguns dos meus trabalhos e aprendizados ao longo da minha jornada na área de TI.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
     <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 
