@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Pedro de Souza Laino, tenho 22 anos e moro no Rio de Janeiro. Estou cursando Análise e Desenvolvimento de Sistemas na UNISUAM e sou apaixonado por tecnologia. Desde os 15 anos, venho estudando programação de forma autodidata, sempre buscando novos desafios e aprimorando minhas habilidades. Atualmente, estou focado no desenvolvimento de projetos em Python e outras tecnologias. Este portfólio reúne alguns dos meus trabalhos e aprendizados ao longo da minha jornada na área de TI.
+Me chamo João Pedro, tenho 22 anos e moro no Rio de Janeiro. Estou cursando Análise e Desenvolvimento de Sistemas na UNISUAM e sou apaixonado por tecnologia. Desde os 15 anos, venho estudando programação de forma autodidata, sempre buscando novos desafios e aprimorando minhas habilidades. Atualmente, estou focado no desenvolvimento de projetos em Python e outras tecnologias. Este portfólio reúne alguns dos meus trabalhos e aprendizados ao longo da minha jornada na área de TI.
 
 <p align="left">
     <a href="https://github.com/eulaino?tab=repositories&sort=stargazers">
